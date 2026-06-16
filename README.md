@@ -109,9 +109,9 @@ docker run --rm -v "$PWD:/work" -w /work slam-eval demo --output-dir docs/result
 
 ---
 
-## Benchmarks (Live — May 2026)
+## Demo Results
 
-Run with the built-in synthetic demo trajectory (160 poses, simulated monocular VO with drift).
+The following metrics are from the built-in synthetic demo trajectory (160 poses, simulated monocular VO with drift).
 
 | Metric | Value |
 |---|---|
